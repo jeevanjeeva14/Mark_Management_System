@@ -82,16 +82,16 @@ _______
 
 🖼️ Screenshots
 
-![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/mark_management.png)
+![image alt](https://github.com/jeevanjeeva14/Mark_Management_System/blob/main/output_Screenshots/mark_management.png)
 
-![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/add.png)
+![image alt](https://github.com/jeevanjeeva14/Mark_Management_System/blob/main/output_Screenshots/add.png)
 
-![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/update.png)
+![image alt](https://github.com/jeevanjeeva14/Mark_Management_System/blob/main/output_Screenshots/update.png)
 
-![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/delete.png)
+![image alt](https://github.com/jeevanjeeva14/Mark_Management_System/blob/main/output_Screenshots/delete.png)
 
-![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/display.png)
+![image alt](https://github.com/jeevanjeeva14/Mark_Management_System/blob/main/output_Screenshots/display.png)
 
-![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/report.png)
+![image alt](https://github.com/jeevanjeeva14/Mark_Management_System/blob/main/output_Screenshots/report.png)
 
 _____
